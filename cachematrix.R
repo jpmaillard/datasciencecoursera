@@ -1,5 +1,5 @@
 ## The two following functions will first create a special Matrix
-## that can cache its inverse in memory and calculate that inverse.
+## that can cache its inverse in memory and then calculate that inverse.
 ## We are assuming here (and therefore not checking it!) that
 ## the matrix entered will be square and that its determinant will
 ## be different of 0 (the two conditions needed for the matrix to be inversible).
